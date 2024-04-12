@@ -1,3 +1,4 @@
+-- BDD SQL
 -- Création de la base de données
 CREATE DATABASE IF NOT EXISTS Projet_sbgd;
 
