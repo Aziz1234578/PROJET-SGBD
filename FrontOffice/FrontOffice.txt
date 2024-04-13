@@ -1,1 +1,1 @@
-Etant donné que les fichiers sont trop volumineux pour pouvoir être dépôsés sur GitHub,voici le lien vers le dossier FrontOffice du projet : https://drive.google.com/file/d/18XeVZqdKgxsiUmikF_bQEnUKRSpmW9lt/view
+Etant donné que les fichiers sont trop volumineux pour pouvoir être dépôsés sur GitHub, voici le lien drive vers le dossier FrontOffice du projet : https://drive.google.com/file/d/18XeVZqdKgxsiUmikF_bQEnUKRSpmW9lt/view
